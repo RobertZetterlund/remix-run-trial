@@ -1,0 +1,386 @@
+[
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359934",
+    "dob": "1921-01-28",
+    "title": "Lars Ulvenstam",
+    "date": "2005-08-14",
+    "playlistId": "24Mdx43bzvDajc1LluA9oC",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3236331_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/352859",
+    "dob": "1940-09-17",
+    "title": "Jan Eliasson",
+    "date": "2005-08-13",
+    "playlistId": "33h926I23X2xo8rrHkc0OB",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3236310_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359932",
+    "dob": "1961-03-18",
+    "title": "Susanne Ljung",
+    "date": "2005-08-12",
+    "playlistId": "1UgFRdWee8o8i1mamYzxjh",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3236294_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359931",
+    "dob": "1965-04-01",
+    "title": "Tomas Alfredson",
+    "date": "2005-08-11",
+    "playlistId": "1ZmCOuk0zzWxlUL4Oa3CMO",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3236263_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359929",
+    "dob": "1971-07-28",
+    "title": "Per Öberg",
+    "date": "2005-08-10",
+    "playlistId": "0WO6uzOIyGK2vkhICmMaEt",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3236205_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359925",
+    "dob": "1954-05-24",
+    "title": "Urban Bäckström",
+    "date": "2005-08-09",
+    "playlistId": "1vhz7qnoVwLXv2cyKGZavg",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3236010_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359924",
+    "dob": "1929-06-14",
+    "title": "Gunilla Pontén",
+    "date": "2005-08-08",
+    "playlistId": "6lYtSx8KLMrEL7pajpWarN",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3235865_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359923",
+    "dob": "1961-02-24",
+    "title": "Pigge Werkelin",
+    "date": "2005-08-07",
+    "playlistId": "0zjpqWeuvg3z8fi8tv2xJb",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3235566_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359922",
+    "dob": "1967-10-09",
+    "title": "Anders Jansson",
+    "date": "2005-08-06",
+    "playlistId": "2l3nOKn0kYc5RY8xmdS6ij",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3235538_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359920",
+    "dob": null,
+    "title": "Sari Nykvist",
+    "date": "2005-08-05",
+    "playlistId": "2hgbs62FMhehbTZWTF71Hw",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3235504_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/324415",
+    "dob": "1971-01-25",
+    "title": "Marcus Samuelsson",
+    "date": "2005-08-04",
+    "playlistId": "2qlJKfHKtuSi3YfyMWH966",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3235476_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359915",
+    "dob": "1945-07-08",
+    "title": "Ingrid Sommar",
+    "date": "2005-08-03",
+    "playlistId": "1Nfzc3Iv8v1XKc0ORyQ0L7",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3235400_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359914",
+    "dob": "1938-05-21",
+    "title": "Kay Pollak",
+    "date": "2005-08-02",
+    "playlistId": "4oWoucvR1o3Hg1xpefW6lh",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3235383_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359913",
+    "dob": "1952-02-18",
+    "title": "Efva Attling",
+    "date": "2005-08-01",
+    "playlistId": "5uFGP2fzE8VUFtz1zntVYR",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3235357_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359911",
+    "dob": "1969-10-15",
+    "title": "Mustafa Can",
+    "date": "2005-07-31",
+    "playlistId": "2vSjmh6UQlW7Z57bbRG919",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3235252_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/324414",
+    "dob": "1962-09-11",
+    "title": "Mauro Scocco",
+    "date": "2005-07-30",
+    "playlistId": "2rilhR5UaP5TMZrJWZtqmJ",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3235188_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/324413",
+    "dob": "1946-06-19",
+    "title": "Marie Rådbo",
+    "date": "2005-07-29",
+    "playlistId": "79ewXD6ZzXgT2fleXNtAmG",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3234812_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359908",
+    "dob": "1953-02-07",
+    "title": "Astrid Assefa",
+    "date": "2005-07-28",
+    "playlistId": "3S1Lkiy3pYEI0pUnf0OuBV",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3234801_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359901",
+    "dob": "1972-10-03",
+    "title": "Martin Stenmarck",
+    "date": "2005-07-27",
+    "playlistId": "2bEt8ZbUNIzUN8w9COgOOS",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3234624_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/279982",
+    "dob": "1957-03-17",
+    "title": "Sissela Kyle",
+    "date": "2005-07-26",
+    "playlistId": "1Ay4JBZvQmlWeh4PsGN1Pk",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3234501_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/324412",
+    "dob": "1948-07-27",
+    "title": "Hans Rosling",
+    "date": "2005-07-25",
+    "playlistId": "6ZqE7NGGqev4NhQNNazlRE",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3234430_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359900",
+    "dob": "1922-07-14",
+    "title": "Käbi Laretei",
+    "date": "2005-07-24",
+    "playlistId": "09MvS3GO9llxBRylD5Dy0v",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3234344_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359899",
+    "dob": "1960-11-16",
+    "title": "Pia Johansson",
+    "date": "2005-07-23",
+    "playlistId": "1UURgEogFFK5b0XpDfslD3",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3234266_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359898",
+    "dob": "1944-02-08",
+    "title": "Barbro Hedvall",
+    "date": "2005-07-22",
+    "playlistId": "5YSYbGwm2fVsitLCZR1lFz",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3234174_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359897",
+    "dob": "1958-02-13",
+    "title": "Anna Jansson",
+    "date": "2005-07-21",
+    "playlistId": "38Vu5aEq6Zei2DnSB5jxEn",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3234059_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359896",
+    "dob": "1958-08-03",
+    "title": "Peter Eriksson",
+    "date": "2005-07-20",
+    "playlistId": "3aaKRyQfUbeSaGAygqX1e1",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3234023_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359817",
+    "dob": null,
+    "title": "Tor Bomann-Larsen",
+    "date": "2005-07-19",
+    "playlistId": "3s1uJBm7eHY0gnYeDubXmB",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3233989_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359558",
+    "dob": "1931-02-03",
+    "title": "Göran Palm",
+    "date": "2005-07-18",
+    "playlistId": "6ox6RcTg4jmYTxJX7X40u9",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3233539_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359469",
+    "dob": "1935-04-28",
+    "title": "Pehr G Gyllenhammar",
+    "date": "2005-07-16",
+    "playlistId": "4NWFNOCw8BCTNHKBzZEk4T",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3233398_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359450",
+    "dob": "1950-03-06",
+    "title": "Ylva Eggehorn",
+    "date": "2005-07-15",
+    "playlistId": "6WxvAbjRVFBe4pbxm5RRwD",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3233386_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359363",
+    "dob": "undefined-undefined-1962",
+    "title": "Richard Juhlin",
+    "date": "2005-07-14",
+    "playlistId": "3gOAycpepGDhHwLen1QYCa",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3232988_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359355",
+    "dob": "1971-03-11",
+    "title": "Jonas Karlsson",
+    "date": "2005-07-13",
+    "playlistId": "4deAaagBGoLOoeam7eKLDp",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3232917_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/324411",
+    "dob": "1955-08-09",
+    "title": "Maud Olofsson",
+    "date": "2005-07-12",
+    "playlistId": "531dHKvXXsZ29sxmNW6LzK",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3232903_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/359038",
+    "dob": "1971-02-28",
+    "title": "Maria Blom",
+    "date": "2005-07-11",
+    "playlistId": "6Aivs45jS6NUwrOOTw9iuU",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3232780_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358962",
+    "dob": "1930-06-06",
+    "title": "Lars Bergquist",
+    "date": "2005-07-10",
+    "playlistId": "2WEWMHsIWAG5xsbc1fzFUX",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3232687_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/327259",
+    "dob": "1955-04-11",
+    "title": "Lena Andersson",
+    "date": "2005-07-09",
+    "playlistId": "6tVacgxDxSXiKRTIu9CCjD",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3180886_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358467",
+    "dob": null,
+    "title": "Anna Liljequist",
+    "date": "2005-07-08",
+    "playlistId": "4IdOpulAFalQXejntd8x2E",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3230690_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/324410",
+    "dob": null,
+    "title": "Emina Merdzanic",
+    "date": "2005-07-06",
+    "playlistId": "1gm2NE3ZiAbeusJt4Rb7Yh",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3230633_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358471",
+    "dob": "1970-02-25",
+    "title": "Michael Azar",
+    "date": "2005-07-05",
+    "playlistId": "1cokkNfMNYuHpc21qkShlv",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3231175_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358470",
+    "dob": null,
+    "title": "Henrik Teleman",
+    "date": "2005-07-04",
+    "playlistId": "7eNDIlADDOlbeBIMMCz72v",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3231120_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358466",
+    "dob": "1967-07-06",
+    "title": "Tina Ahlin",
+    "date": "2005-07-03",
+    "playlistId": "3Xxp2QFKlLaeCxIfGXqKt4",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3230502_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358464",
+    "dob": "1948-11-26",
+    "title": "Claes Elfsberg",
+    "date": "2005-07-02",
+    "playlistId": "1jmc32uIsodcDRJtflu3fL",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3230395_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358463",
+    "dob": "1958-02-28",
+    "title": "Ingela Olsson",
+    "date": "2005-07-01",
+    "playlistId": "3QhmEnTTbll4ZMPjOaA190",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3230315_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358454",
+    "dob": "1975-03-16",
+    "title": "Anders Wendin",
+    "date": "2005-06-29",
+    "playlistId": "0WhOjoGUv40BcmFdUNKjhE",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3230198_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358672",
+    "dob": "1910-06-28",
+    "title": "Ingrid Luterkort",
+    "date": "2005-06-28",
+    "playlistId": "2VqXWhTYIzU7imZ5WTIAd0",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3232659_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358453",
+    "dob": "1978-03-26",
+    "title": "Yannick Tregaro",
+    "date": "2005-06-27",
+    "playlistId": "2hyLq8gSNhe6sL2PPtaTaN",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3230116_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/324409",
+    "dob": "1942-09-05",
+    "title": "Majda Raad",
+    "date": "2005-06-26",
+    "playlistId": "2lS2FAOUmkb7d5ZwzyY07t",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3229658_2048_1146.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/358376",
+    "dob": "1953-03-03",
+    "title": "Christer Lindarw",
+    "date": "2005-06-25",
+    "playlistId": "2mIQgTd7fRI588X3W2ZMF9",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3229621_2048_1146.jpg?preset=api-default-square"
+  }
+]

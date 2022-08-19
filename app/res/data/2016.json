@@ -1,0 +1,474 @@
+[
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/768909",
+    "dob": "1986-09-19",
+    "title": "Silvana Imam",
+    "date": "2016-08-21",
+    "playlistId": "0jaVo60uWlWv5nzNCPreNy",
+    "imageurl": "https://static-cdn.sr.se/images/2071/4274fd17-6af1-496b-9438-79e9979ccca9.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/768884",
+    "dob": "1955-02-20",
+    "title": "Klas Östergren",
+    "date": "2016-08-20",
+    "playlistId": "1Ch0c991sALjdxr1O46yrt",
+    "imageurl": "https://static-cdn.sr.se/images/2071/7b9604cd-c86e-4611-ae94-8e633bec2bb0.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/768837",
+    "dob": null,
+    "title": "Karin Bojs",
+    "date": "2016-08-19",
+    "playlistId": "0ongGbTdsdfEwxUv70R9ww",
+    "imageurl": "https://static-cdn.sr.se/images/2071/82b20ec6-c4f1-46b7-9f53-354ca9807e8b.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/768788",
+    "dob": "1976-11-17",
+    "title": "Per Andersson",
+    "date": "2016-08-18",
+    "playlistId": "0W61e9sG1DXXOZbPIcudM1",
+    "imageurl": "https://static-cdn.sr.se/images/2071/4dae84f8-2278-4010-a390-6c23d13687ca.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/758647",
+    "dob": "1981-07-16",
+    "title": "Maher Zain",
+    "date": "2016-08-17",
+    "playlistId": "4fQBjmEGbUXs8krkNSwPNJ",
+    "imageurl": "https://static-cdn.sr.se/images/2071/e7212dcc-c3e7-45cb-b4fd-c7640192b8e5.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/758647",
+    "dob": null,
+    "title": "Maher Zain (ENGLISH VERSION)",
+    "date": "2016-08-17",
+    "playlistId": "5AjEQ9AqC06Wvg6RJ9AvcS",
+    "imageurl": "https://static-cdn.sr.se/images/2071/e7212dcc-c3e7-45cb-b4fd-c7640192b8e5.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/768710",
+    "dob": null,
+    "title": "Hannah Akuffo",
+    "date": "2016-08-16",
+    "playlistId": "633DG11d2wA8tjAofWvzhJ",
+    "imageurl": "https://static-cdn.sr.se/images/2071/c6f23e3e-f36e-4b28-8e61-8b322d8a51c2.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/768661",
+    "dob": "1953-11-13",
+    "title": "Angelica Ström",
+    "date": "2016-08-15",
+    "playlistId": "0xkelCqb7p8WY0h2Ad5TwB",
+    "imageurl": "https://static-cdn.sr.se/images/2071/26889ba6-305a-4f58-9911-ff045f620cf7.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/765460",
+    "dob": "1933-08-27",
+    "title": "Kerstin Ekman",
+    "date": "2016-08-14",
+    "playlistId": "4FJ8b648pWV1gRCw2lGZoF",
+    "imageurl": "https://static-cdn.sr.se/images/2071/79b9e18b-ff1a-4d69-be3c-48c0ae6bc1c5.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/765435",
+    "dob": "1978-07-31",
+    "title": "José González",
+    "date": "2016-08-13",
+    "playlistId": "1uPS90pgRdM3dW93Rpm7QB",
+    "imageurl": "https://static-cdn.sr.se/images/2071/20912b40-2c6c-42f7-80fa-ba17a855da40.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/765388",
+    "dob": "1960-02-03",
+    "title": "Maja Hagerman",
+    "date": "2016-08-12",
+    "playlistId": "1z6BJD14izqwnFy4usMTSl",
+    "imageurl": "https://static-cdn.sr.se/images/2071/20b843b9-763c-470d-b019-7a9183511927.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/765339",
+    "dob": "1976-01-27",
+    "title": "Ida Sjöstedt",
+    "date": "2016-08-11",
+    "playlistId": "5jEbUNTkB9OCjPWxTkjlrQ",
+    "imageurl": "https://static-cdn.sr.se/images/2071/0b5ec8e2-f0d1-42c0-9630-bea91b5f2b6b.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/765586",
+    "dob": "1962-09-29",
+    "title": "Janne Andersson",
+    "date": "2016-08-10",
+    "playlistId": "0W0KFY42RtsIlSFHILmmL3",
+    "imageurl": "https://static-cdn.sr.se/images/2071/4e5f9bb1-9059-4e2d-aec5-1e714e54e2d2.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/765535",
+    "dob": "1946-02-12",
+    "title": "Marianne Lindberg De Geer",
+    "date": "2016-08-09",
+    "playlistId": "0hdNPvRBxjuxBa5Ehfw9BM",
+    "imageurl": "https://static-cdn.sr.se/images/2071/7abec454-3b8b-4760-9f34-dad41d395e39.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/765484",
+    "dob": "1961-03-17",
+    "title": "Alexander Bard",
+    "date": "2016-08-08",
+    "playlistId": "1w3XzyyspzTRz83xbYhXje",
+    "imageurl": "https://static-cdn.sr.se/images/2071/157143c3-ddef-4dc5-829a-f96e8ea6e8e6.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/761239",
+    "dob": "1978-05-31",
+    "title": "Anna Ternheim",
+    "date": "2016-08-07",
+    "playlistId": "2ECQPiZjoCmWwilvkil2k9",
+    "imageurl": "https://static-cdn.sr.se/images/2071/08c06faf-07fd-46d3-adc2-450bb09d775a.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/761214",
+    "dob": "1954-06-18",
+    "title": "Magnus Uggla",
+    "date": "2016-08-06",
+    "playlistId": "3k7o4DB8dpCdhvZItxzx06",
+    "imageurl": "https://static-cdn.sr.se/images/2071/b61c9ab9-ad82-4901-9edd-ca1f2cf6234b.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/757840",
+    "dob": "1983-02-02",
+    "title": "Carolina Klüft",
+    "date": "2016-08-05",
+    "playlistId": "23b9tdNZdIuWugynN8wKev",
+    "imageurl": "https://static-cdn.sr.se/images/2071/ec1be003-02e6-494b-bfd3-594258e94796.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/758116",
+    "dob": "undefined-undefined-1949",
+    "title": "Siw Carlsson",
+    "date": "2016-08-04",
+    "playlistId": "5dfTXZhOsrJAS5uMPgNFrW",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3e707967-736e-48d4-8325-ad8f08ea6812.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/760183",
+    "dob": "1975-09-02",
+    "title": "Parul Sharma",
+    "date": "2016-08-03",
+    "playlistId": "2yQmOkuOVvLf6sFA16FhKg",
+    "imageurl": "https://static-cdn.sr.se/images/2071/25b0081f-4760-4402-8ea4-732f05dc769d.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/761168",
+    "dob": null,
+    "title": "IJustWantToBeCool (Victor Beer, Emil Beer, Joel Adolphson)",
+    "date": "2016-08-02",
+    "playlistId": "0qEy8u6OkxVgkBPH50NN19",
+    "imageurl": "https://static-cdn.sr.se/images/2071/227322d3-46f8-4b1d-8816-f343454ab3b5.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/760833",
+    "dob": "1984-10-24",
+    "title": "Iman Aldebe",
+    "date": "2016-08-01",
+    "playlistId": "4vtZcOUcmEYGLcnYS3ko4u",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3c65b634-5bdf-46e7-be36-98cdd9952701.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/757814",
+    "dob": "1952-05-10",
+    "title": "Kikki Danielsson",
+    "date": "2016-07-31",
+    "playlistId": "1tM3Luh2dYUEFqCk94hHxT",
+    "imageurl": "https://static-cdn.sr.se/images/2071/7f63a13d-6238-45a6-9c6e-582d1f9b0a96.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/760428",
+    "dob": "1940-04-27",
+    "title": "Lennart Bylock",
+    "date": "2016-07-30",
+    "playlistId": "49CQUF8qHps7bhHhFuAHoD",
+    "imageurl": "https://static-cdn.sr.se/images/2071/e41bb5fe-2343-43bd-8886-efa2c965fbf7.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/756904",
+    "dob": "1982-01-06",
+    "title": "Stina Stoor",
+    "date": "2016-07-29",
+    "playlistId": "2X5Ld5JyAgZO9kbRP9K6MR",
+    "imageurl": "https://static-cdn.sr.se/images/2071/c2295e62-862d-4d08-98b0-52f0bb05a91a.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/757763",
+    "dob": "1966-12-05",
+    "title": "Johan Renck",
+    "date": "2016-07-28",
+    "playlistId": "16Bv1JowxHXGYGn4GkV0SU",
+    "imageurl": "https://static-cdn.sr.se/images/2071/33f8c476-a5af-4864-8eb9-aa363642d738.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/757715",
+    "dob": "1945-06-21",
+    "title": "Bert Karlsson",
+    "date": "2016-07-27",
+    "playlistId": "4THG1T5JhaYgXgKkl0AT4o",
+    "imageurl": "https://static-cdn.sr.se/images/2071/a6264574-4cff-4a11-afab-095bdc54e3c6.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/757664",
+    "dob": "1987-12-21",
+    "title": "Isabella Lundgren",
+    "date": "2016-07-26",
+    "playlistId": "4KnbJ7UB0S4ZcN5595CvJF",
+    "imageurl": "https://static-cdn.sr.se/images/2071/fb049c2a-c92e-4994-9013-32fdbb8cf9fe.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/757615",
+    "dob": "1947-10-27",
+    "title": "Johan Holmsäter",
+    "date": "2016-07-25",
+    "playlistId": "4LuL2k1XqxlQ9IWzeqXwAX",
+    "imageurl": "https://static-cdn.sr.se/images/2071/df2e3e4e-95ca-4d21-8b4f-ba7180aaf4ca.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/751935",
+    "dob": "1982-08-24",
+    "title": "Kim Källström",
+    "date": "2016-07-24",
+    "playlistId": "0KgmF0aWmWlQUXhFT80jf4",
+    "imageurl": "https://static-cdn.sr.se/images/2071/70d1c12d-f428-43ad-85d8-a01a15953bf0.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/751910",
+    "dob": "1966-09-08",
+    "title": "Carola Häggkvist",
+    "date": "2016-07-23",
+    "playlistId": "5w9CH4txYbNmcXDPYNw7wj",
+    "imageurl": "https://static-cdn.sr.se/images/2071/52faa238-f111-44cc-b84e-1bbe58604cd7.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/751866",
+    "dob": "undefined-undefined-1967",
+    "title": "Sara Mohammad",
+    "date": "2016-07-22",
+    "playlistId": "1lJMhH2zvuCjSWTd6Hdv5i",
+    "imageurl": "https://static-cdn.sr.se/images/2071/b41ccfc5-f491-4bc7-88fd-d574c88ccc28.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/751822",
+    "dob": "1970-10-22",
+    "title": "Edward Blom",
+    "date": "2016-07-21",
+    "playlistId": "1eFigWM76hftipWGZdL1Ab",
+    "imageurl": "https://static-cdn.sr.se/images/2071/9b434f85-4a2d-423f-9939-7c19dff5430d.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/751778",
+    "dob": null,
+    "title": "Emilia Lind (Lyssnarnas Sommarvärd)",
+    "date": "2016-07-20",
+    "playlistId": "3veyVRCDTtOm08iFVNQvgS",
+    "imageurl": "https://static-cdn.sr.se/images/2071/0223ac35-bdae-4afb-a01b-f134ed26ce57.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/751731",
+    "dob": "1943-11-30",
+    "title": "Sven Hagströmer",
+    "date": "2016-07-19",
+    "playlistId": "0Q2FQPPRu84ZOTMEhh8MKg",
+    "imageurl": "https://static-cdn.sr.se/images/2071/b17c69a0-1e86-4ad0-bd80-f99f04305083.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/751686",
+    "dob": "1975-08-12",
+    "title": "Mikael Karlsson",
+    "date": "2016-07-18",
+    "playlistId": "3KTxJ1XVd8W17oN8S3vGeB",
+    "imageurl": "https://static-cdn.sr.se/images/2071/95e1f392-9ddc-48fd-b49a-e6c01e4a8b12.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/747948",
+    "dob": "1939-11-24",
+    "title": "Marit Paulsen",
+    "date": "2016-07-17",
+    "playlistId": "65uIvHstRopo2bfN1KdfjN",
+    "imageurl": "https://static-cdn.sr.se/images/2071/dabc8b4c-5fa1-4864-86d8-af7d3e712ba2.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/747923",
+    "dob": "1979-04-06",
+    "title": "Markus Krunegård",
+    "date": "2016-07-16",
+    "playlistId": "6IySoBwLeGrQr0A4qOcqWM",
+    "imageurl": "https://static-cdn.sr.se/images/2071/f375cc76-7e7c-48d8-8b47-b6e18d09a063.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/747878",
+    "dob": "1980-02-23",
+    "title": "Sakine Madon",
+    "date": "2016-07-15",
+    "playlistId": "5c3DFN52cwYHZ0QCZgItCi",
+    "imageurl": "https://static-cdn.sr.se/images/2071/91b05ad6-3a8f-48ac-956c-2a759f25a7b5.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/747834",
+    "dob": "1950-09-15",
+    "title": "Elisabeth Tarras-Wahlberg",
+    "date": "2016-07-14",
+    "playlistId": "2HW82mcqN6Kvu75Bwg0kTI",
+    "imageurl": "https://static-cdn.sr.se/images/2071/e4644be5-0e07-44b7-8f57-decf86df963a.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/747790",
+    "dob": "1935-09-25",
+    "title": "Maj Sjöwall",
+    "date": "2016-07-13",
+    "playlistId": "0ZAt66TpPfll3amM0eJXp4",
+    "imageurl": "https://static-cdn.sr.se/images/2071/b4ffa780-2aed-480c-b915-0e92624bdbe1.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/747743",
+    "dob": "1974-10-19",
+    "title": "Emil Jensen",
+    "date": "2016-07-12",
+    "playlistId": "7j2BqxqrYPEDhnsjs1iF20",
+    "imageurl": "https://static-cdn.sr.se/images/2071/fff0e756-98c0-43c9-92d1-030e84c65aa6.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/747697",
+    "dob": "1955-08-25",
+    "title": "Anders Kompass",
+    "date": "2016-07-11",
+    "playlistId": "3iFjPbV1dMKtDDIkt3AGaU",
+    "imageurl": "https://static-cdn.sr.se/images/2071/780c6ce1-7460-423b-a26b-da8e6808a174.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/743365",
+    "dob": "1953-01-15",
+    "title": "Malou von Sivers",
+    "date": "2016-07-10",
+    "playlistId": "3NwkqNP7vz1QbF1iH5zCaN",
+    "imageurl": "https://static-cdn.sr.se/images/2071/9b1f7ce1-8237-4d71-ade0-feb1c277d2ba.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/743339",
+    "dob": "1987-01-15",
+    "title": "Alexander \"The Mauler\" Gustafsson",
+    "date": "2016-07-09",
+    "playlistId": "25vgLZTKH0TAQ48rNNJgMM",
+    "imageurl": "https://static-cdn.sr.se/images/2071/1e47c751-73ce-4825-afc9-9beb015117c5.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/743390",
+    "dob": "1964-10-14",
+    "title": "Ulrika Rogland",
+    "date": "2016-07-08",
+    "playlistId": "1EET7Rohl8WQXN7AXe80b5",
+    "imageurl": "https://static-cdn.sr.se/images/2071/67c6d06a-772e-4e72-a47a-ea3711b12766.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/743434",
+    "dob": null,
+    "title": "Ove \"Doc Forest\" Skog",
+    "date": "2016-07-07",
+    "playlistId": "463K1uBGKYQxD7tVht8TtN",
+    "imageurl": "https://static-cdn.sr.se/images/2071/8e0ce512-723d-483a-aa55-754e734bae59.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/743571",
+    "dob": "1941-02-10",
+    "title": "Bertil Hult",
+    "date": "2016-07-06",
+    "playlistId": "3In2tTVN1qyCoIqIsPLgdN",
+    "imageurl": "https://static-cdn.sr.se/images/2071/1f022064-e12b-427c-9a46-26bf59ba0037.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/743524",
+    "dob": null,
+    "title": "Bianca och Tiffany Kronlöf",
+    "date": "2016-07-05",
+    "playlistId": "3TqVZZehYNactnA8zaQ0VG",
+    "imageurl": "https://static-cdn.sr.se/images/2071/25cc5b0e-e92d-46df-b184-7281e2ed23d0.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/743479",
+    "dob": "1942-09-26",
+    "title": "Gloria Ray Karlmark",
+    "date": "2016-07-04",
+    "playlistId": "09D76QSqDlTl3S3D2eXukk",
+    "imageurl": "https://static-cdn.sr.se/images/2071/e820cb3b-1ab3-4f6b-86d6-27baa4f87268.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/741294",
+    "dob": "1978-03-23",
+    "title": "Tom Malmquist",
+    "date": "2016-07-03",
+    "playlistId": "2xCAx2LRdKV2j2LZJAzeKf",
+    "imageurl": "https://static-cdn.sr.se/images/2071/7b342d17-7f15-4544-bf2e-49e5149419e4.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/741270",
+    "dob": "1934-11-09",
+    "title": "Ingvar Carlsson",
+    "date": "2016-07-02",
+    "playlistId": "2p17Ih39uZlvLIwuWJEB68",
+    "imageurl": "https://static-cdn.sr.se/images/2071/e2b86b5a-1c9d-414a-85ce-f8a12a780af0.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/741222",
+    "dob": null,
+    "title": "Ahmad Khan Mahmoodzada",
+    "date": "2016-07-01",
+    "playlistId": "5bhYSHIKpDCZ9GOAoONLmf",
+    "imageurl": "https://static-cdn.sr.se/images/2071/07fb493d-bdde-42ab-af83-3ad8b7d2ceec.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/741176",
+    "dob": null,
+    "title": "Danica Kragić Jensfelt",
+    "date": "2016-06-30",
+    "playlistId": "3AufzgYT7QbURBJAYoVtZt",
+    "imageurl": "https://static-cdn.sr.se/images/2071/4be7c5d7-5168-4d37-b1b8-189372ad3373.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/741129",
+    "dob": null,
+    "title": "Matias Varela",
+    "date": "2016-06-29",
+    "playlistId": "6nuul3kbVAGkHgx1if0mgw",
+    "imageurl": "https://static-cdn.sr.se/images/2071/457899ab-534f-4943-9da7-9202417c5b7a.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/741081",
+    "dob": null,
+    "title": "Gunhild Stordalen",
+    "date": "2016-06-28",
+    "playlistId": "0czva1mEl1EJTE3E6LQtac",
+    "imageurl": "https://static-cdn.sr.se/images/2071/73105831-de77-4fa1-9526-5726897ce338.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/741033",
+    "dob": null,
+    "title": "Johan Olsson",
+    "date": "2016-06-27",
+    "playlistId": "3GAc4VgX7J9swk5yapdC2d",
+    "imageurl": "https://static-cdn.sr.se/images/2071/a65feb4b-90ae-46cf-8d86-529be5ec6a8e.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/754615",
+    "dob": null,
+    "title": "Annika Lantz",
+    "date": "2016-06-26",
+    "playlistId": "6ZDL1BML18qcYNTR4Yf94M",
+    "imageurl": "https://static-cdn.sr.se/images/2071/dd208575-94af-4e06-a55d-d25ec2ae4b90.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/743223",
+    "dob": null,
+    "title": "David Lagercrantz",
+    "date": "2016-06-25",
+    "playlistId": "5MxnDPMk5ZY7oIxuOcpE6F",
+    "imageurl": "https://static-cdn.sr.se/images/2071/ca666a64-00d8-42f3-b5d1-8ce3223dd2f8.jpg?preset=api-default-square"
+  }
+]

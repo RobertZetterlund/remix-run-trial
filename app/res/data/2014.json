@@ -1,0 +1,442 @@
+[
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/415658",
+    "dob": "1969-10-15",
+    "title": "Mustafa Can",
+    "date": "2014-08-17",
+    "playlistId": "7GECYEE0zhWEw225wgucKH",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300216_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/414681",
+    "dob": "1947-07-24",
+    "title": "Loa Falkman",
+    "date": "2014-08-16",
+    "playlistId": "0VZQyHzZAOhUNJnhhRbohg",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3298689_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/415619",
+    "dob": "1981-08-07",
+    "title": "Karin \"Kakan\" Hermansson",
+    "date": "2014-08-15",
+    "playlistId": "5b0WV36bnigef2sNZ4r5FT",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300208_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/415580",
+    "dob": "1955-04-20",
+    "title": "Svante Pääbo",
+    "date": "2014-08-14",
+    "playlistId": "5Ei7RCfWmjlZcJE19s48nr",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3298679_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/415541",
+    "dob": "1975-05-07",
+    "title": "Gunhild Carling",
+    "date": "2014-08-13",
+    "playlistId": "1PKs1oV3TByjgDJKKFIZSa",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3298677_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/415502",
+    "dob": null,
+    "title": "Björn \"Nalle\" Wahlroos",
+    "date": "2014-08-12",
+    "playlistId": "6fQXGHxYJsL8CrhCi56pih",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3298675_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/414728",
+    "dob": "1955-01-07",
+    "title": "Agnes Wold",
+    "date": "2014-08-11",
+    "playlistId": "7fVH8ItPqAqC1P14zkJPLL",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300185_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/412780",
+    "dob": "1959-03-10",
+    "title": "Annie Wegelius",
+    "date": "2014-08-10",
+    "playlistId": "4eWkPy0Y5GOZAhcJTctEQQ",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302794_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/421641",
+    "dob": null,
+    "title": "Felix \"PewDiePie\" Kjellberg (in English)",
+    "date": "2014-08-09",
+    "playlistId": "07sU0ha91WJiPOWJXlTqk0",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300176_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/421641",
+    "dob": "1989-10-24",
+    "title": "Felix \"PewDiePie\" Kjellberg",
+    "date": "2014-08-09",
+    "playlistId": "1IViyPs6riRcPSG5Fuq2mM",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300175_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/412742",
+    "dob": "1951-02-04",
+    "title": "Bi Puranen",
+    "date": "2014-08-08",
+    "playlistId": "6MGzNYbyLdBU57k21kVyvZ",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300236_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/412703",
+    "dob": "1972-12-23",
+    "title": "Bea Szenfeld",
+    "date": "2014-08-07",
+    "playlistId": "58RmqelxESB1NGysbmTsoH",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300189_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/412664",
+    "dob": "1957-08-26",
+    "title": "Alban \"Dr Alban\" Nwapa",
+    "date": "2014-08-06",
+    "playlistId": "4xvzKXAGyIuDUnCBhNlstI",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302786_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/412624",
+    "dob": "1979-06-27",
+    "title": "Jesper Rönndahl",
+    "date": "2014-08-05",
+    "playlistId": "36kGEyrAJGLqLLD3PAIM4B",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3298655_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/412586",
+    "dob": "1921-03-03",
+    "title": "Nina Lagergren",
+    "date": "2014-08-04",
+    "playlistId": "2GFWrD2xfBvmQgyzgizhPE",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302781_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/407837",
+    "dob": "1966-03-20",
+    "title": "Bea Uusma",
+    "date": "2014-08-03",
+    "playlistId": "6eGJErR6iEPulXC80eGkqM",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300225_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/407820",
+    "dob": "1982-11-22",
+    "title": "Steve Angello",
+    "date": "2014-08-02",
+    "playlistId": "6fFapLm45zntrMSmC8zoEN",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3351939_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/407800",
+    "dob": "1928-03-28",
+    "title": "Gunilla Palmstierna-Weiss",
+    "date": "2014-08-01",
+    "playlistId": "3iA42sVGCNDqFEIkJ2IEsp",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302779_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/407761",
+    "dob": "1976-04-05",
+    "title": "Henrik Stenson",
+    "date": "2014-07-31",
+    "playlistId": "6ve5a8f0hbyPq0cYjRZGj9",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3298639_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/407723",
+    "dob": "1985-03-27",
+    "title": "Caroline Winberg",
+    "date": "2014-07-30",
+    "playlistId": "68HULcrGZPqZUIpfO3HuVm",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300206_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/407685",
+    "dob": null,
+    "title": "Po Tidholm",
+    "date": "2014-07-29",
+    "playlistId": "61R11XNefAQJF0nT6FPhZb",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300229_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/407648",
+    "dob": "1978-03-15",
+    "title": "Anna von Bayern",
+    "date": "2014-07-28",
+    "playlistId": "3DZlAo4w99pITpZjpbt01B",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300211_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/404156",
+    "dob": "1966-06-28",
+    "title": "Åsa Larsson",
+    "date": "2014-07-27",
+    "playlistId": "2Nzpt9FGNkmIc0VarY1fbB",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302771_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/404139",
+    "dob": "1962-04-25",
+    "title": "Christian Falk",
+    "date": "2014-07-26",
+    "playlistId": "7DSgdiPI8ep1iWzaPOsinl",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302766_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/404118",
+    "dob": "1964-04-18",
+    "title": "Oskar Kihlborg",
+    "date": "2014-07-25",
+    "playlistId": "1W7Uz69OstKI4O6EfREcbX",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302747_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/404081",
+    "dob": null,
+    "title": "Mette Rode Sundstrøm",
+    "date": "2014-07-24",
+    "playlistId": "0qcYxeabGZGMKSc4dKaNeO",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302740_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/404043",
+    "dob": "1974-04-07",
+    "title": "Baker Karim",
+    "date": "2014-07-23",
+    "playlistId": "0C9y9skRpDXIHnepnlFKwR",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300241_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/404004",
+    "dob": "1955-10-02",
+    "title": "Per Fritzell",
+    "date": "2014-07-22",
+    "playlistId": "3NpIekg0gUkUl4tBOxNCdM",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300249_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/403967",
+    "dob": "1983-08-23",
+    "title": "Athena Farrokhzad",
+    "date": "2014-07-21",
+    "playlistId": "6Kue6WkKUyIRs9tMqgz0HV",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302735_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/400278",
+    "dob": "1961-03-25",
+    "title": "Monika Ahlberg",
+    "date": "2014-07-20",
+    "playlistId": "2Ubj8jiR1FLwIXRtEAlybX",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300245_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/400261",
+    "dob": "1974-03-28",
+    "title": "Jonas Eriksson",
+    "date": "2014-07-19",
+    "playlistId": "3VNkJed95HOm5LY67mDuVN",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3298596_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/400239",
+    "dob": "1975-07-19",
+    "title": "Martina Montelius",
+    "date": "2014-07-18",
+    "playlistId": "4vbFFhBYtr7vQyZfkFTPBR",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302723_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/400200",
+    "dob": "1983-05-02",
+    "title": "Navid Modiri",
+    "date": "2014-07-17",
+    "playlistId": "2kxwVjLE9ZUfLlmsOFUaGR",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300233_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/400162",
+    "dob": null,
+    "title": "Sebastian Kirppu",
+    "date": "2014-07-16",
+    "playlistId": "6uDH74O8BfAmyk8olm7kC1",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302720_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/400121",
+    "dob": "1924-07-15",
+    "title": "Marianne Bernadotte",
+    "date": "2014-07-15",
+    "playlistId": "37Pv7hBHAdTxdK4q2XdL5e",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302711_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/400083",
+    "dob": null,
+    "title": "Therése Söderlind",
+    "date": "2014-07-14",
+    "playlistId": "7mSoWciaIncgA8kLmqB89u",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300184_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/397055",
+    "dob": "1951-04-17",
+    "title": "Börje Salming",
+    "date": "2014-07-13",
+    "playlistId": "6XVJjBFcjjAJ19EzFKW5Xi",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300183_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/397038",
+    "dob": "1963-04-10",
+    "title": "Jeppe Wikström",
+    "date": "2014-07-12",
+    "playlistId": "4xKa8hVuHXcHadnHr9dKVE",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3345441_2048_1363.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/397017",
+    "dob": "1972-04-25",
+    "title": "Sofia Helin",
+    "date": "2014-07-11",
+    "playlistId": "1vSRiUEWikRoTxZDbSaLAO",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300170_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/396979",
+    "dob": "1974-08-29",
+    "title": "Fredrik \"Benke\" Rydman",
+    "date": "2014-07-10",
+    "playlistId": "6rDy2ENk45fIgIisKeAVDT",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300171_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/396941",
+    "dob": "1985-08-25",
+    "title": "Linda Pira",
+    "date": "2014-07-09",
+    "playlistId": "1FxkuJ1XNPfEj6Alr95GA8",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300160_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/396903",
+    "dob": "1961-08-06",
+    "title": "Kjell Westö",
+    "date": "2014-07-08",
+    "playlistId": "65OeYsI2iReVLnoV8Gbium",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300163_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/396865",
+    "dob": "1970-12-12",
+    "title": "Linda Nordin",
+    "date": "2014-07-07",
+    "playlistId": "4aCkpOxrjHCdngo1njcgEE",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300164_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/392062",
+    "dob": "1946-06-02",
+    "title": "Lars Palmgren",
+    "date": "2014-07-06",
+    "playlistId": "38txUNB4UnCklYO5rRx6JD",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300153_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/392035",
+    "dob": "1984-08-22",
+    "title": "Edda Magnason",
+    "date": "2014-07-05",
+    "playlistId": "2PAKSB8SlP33Nxu7WUmose",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300152_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/392013",
+    "dob": "1932-03-15",
+    "title": "Morton Narrowe",
+    "date": "2014-07-04",
+    "playlistId": "0oOrS2FxxTWB4SX4m2Lxxn",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300151_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/391970",
+    "dob": "1973-06-12",
+    "title": "Andreas Dregen",
+    "date": "2014-07-03",
+    "playlistId": "4YeIb9rsOcq0RgEZg8OAKK",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300141_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/391923",
+    "dob": "1943-04-07",
+    "title": "Evabritt Strandberg",
+    "date": "2014-07-02",
+    "playlistId": "0FeFHhdZcH01EzJsEm9ePb",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300137_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/391876",
+    "dob": "1971-08-22",
+    "title": "Helene Ripa",
+    "date": "2014-07-01",
+    "playlistId": "4fdZfICkuZFHVZpWTM8z5y",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300135_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/391830",
+    "dob": "1942-07-13",
+    "title": "Anders Bárány",
+    "date": "2014-06-30",
+    "playlistId": "7iij5wKmsDDCks7M5P01Le",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300122_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/387523",
+    "dob": "1973-08-16",
+    "title": "Fredrik Wikingsson",
+    "date": "2014-06-29",
+    "playlistId": "5KO4Xv11RvvzeBVEqi8kEu",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300193_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/386831",
+    "dob": "1943-07-17",
+    "title": "Ingalill Mosander",
+    "date": "2014-06-28",
+    "playlistId": "4vkJoVF9mvSyo7vZBNDnCI",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3302701_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/386830",
+    "dob": "1976-03-12",
+    "title": "Simon Kyaga",
+    "date": "2014-06-27",
+    "playlistId": "5yGBmTq2WPHkt8clNxPGCq",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300123_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/386829",
+    "dob": null,
+    "title": "Johan Theorin",
+    "date": "2014-06-26",
+    "playlistId": "3K7UMk8tmIHMXSrs56oDot",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3300121_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/386828",
+    "dob": null,
+    "title": "Antje Jackelén",
+    "date": "2014-06-25",
+    "playlistId": "5eGwXt84o5MhpuDKRv9XTO",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3298474_2048_1152.jpg?preset=api-default-square"
+  }
+]

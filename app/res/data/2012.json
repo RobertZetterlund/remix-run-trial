@@ -1,0 +1,450 @@
+[
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/97794",
+    "dob": "1977-11-20",
+    "title": "Henrik Dorsin",
+    "date": "2012-08-19",
+    "playlistId": "6o7YyUL8LrSZjhj3EBOQp5",
+    "imageurl": "https://static-cdn.sr.se/images/2071/96c5f293-119d-4eda-b96e-40a3280a85c4.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116726",
+    "dob": "1942-10-27",
+    "title": "Marie Göranzon",
+    "date": "2012-08-18",
+    "playlistId": "6j1etPQfFcHgZuas28f8aC",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355286_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116727",
+    "dob": "1987-06-05",
+    "title": "Amanda Svensson",
+    "date": "2012-08-17",
+    "playlistId": "7qd09RJ94iY9sS4WQKYt7c",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344780_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/129471",
+    "dob": "1984-02-27",
+    "title": "Lotta Schelin",
+    "date": "2012-08-16",
+    "playlistId": "2kwHhpR8bFC18SgD5XJPAT",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344868_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116373",
+    "dob": "1980-10-08",
+    "title": "Ison Glasgow",
+    "date": "2012-08-15",
+    "playlistId": "7ixjUnNfcjejLcHc5f0WLu",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355292_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116374",
+    "dob": "1971-01-26",
+    "title": "Lotta Lundgren",
+    "date": "2012-08-14",
+    "playlistId": "1rhNrVk1ZKmJILDaizjCpJ",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355304_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116376",
+    "dob": "1949-06-19",
+    "title": "Anders Olsson",
+    "date": "2012-08-13",
+    "playlistId": "273KFTkT8qu5ezZQgY17or",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355317_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116377",
+    "dob": "1964-06-09",
+    "title": "Martina Haag",
+    "date": "2012-08-12",
+    "playlistId": "5WCpazJW8IkdgzQw6JTzPE",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355325_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116378",
+    "dob": "1946-09-25",
+    "title": "Johannes Brost",
+    "date": "2012-08-11",
+    "playlistId": "6ndJC5U9fi4VGRWd2MF5gW",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344851_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116380",
+    "dob": "1957-07-21",
+    "title": "Stefan Löfven",
+    "date": "2012-08-10",
+    "playlistId": "0ALRf0HauolJds0WzVdXN1",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355336_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116381",
+    "dob": "1985-07-07",
+    "title": "Shima Niavarani",
+    "date": "2012-08-09",
+    "playlistId": "4bFEdaIW5i76iQCzpnUVyy",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355349_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116382",
+    "dob": "1987-03-02",
+    "title": "Jonas Jerebko",
+    "date": "2012-08-08",
+    "playlistId": "6PSydVQO1IDm08IkBRyLFs",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344852_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116676",
+    "dob": "1952-03-20",
+    "title": "Birgitta Svendén",
+    "date": "2012-08-07",
+    "playlistId": "4flYURQwQwIxbTaPlhRYoo",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355355_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116677",
+    "dob": "1947-06-06",
+    "title": "Claes Dahlbäck",
+    "date": "2012-08-06",
+    "playlistId": "5iElKhovlOeykqBrdd2rtF",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355368_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116720",
+    "dob": "1935-04-03",
+    "title": "Märta Tikkanen",
+    "date": "2012-08-05",
+    "playlistId": "3J0AA6KSdPkXou3Vi5QoAA",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355384_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116681",
+    "dob": "1962-11-26",
+    "title": "Hannes Holm",
+    "date": "2012-08-04",
+    "playlistId": "41y9rifvF8iQEMqCM7kNmj",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344836_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116678",
+    "dob": "1966-02-26",
+    "title": "Ebbot Lundberg",
+    "date": "2012-08-03",
+    "playlistId": "667sKmMaO7NWOvNv0UgwBC",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355394_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116687",
+    "dob": "1936-02-23",
+    "title": "Elise Lindqvist",
+    "date": "2012-08-02",
+    "playlistId": "3MvXvsQpFmfqRTcXMg3JYz",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355417_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116679",
+    "dob": "1987-12-03",
+    "title": "Soran Ismail",
+    "date": "2012-08-01",
+    "playlistId": "79AKzjdI6n4WfqsgxoW5If",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2355425_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116680",
+    "dob": "1944-09-30",
+    "title": "Anders Wijkman",
+    "date": "2012-07-31",
+    "playlistId": "2dVqiN5hNwZBTwedYTIKF2",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354527_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116686",
+    "dob": "undefined-undefined-1980",
+    "title": "Sara Bergmark Elfgren",
+    "date": "2012-07-30",
+    "playlistId": "6phfWgiqQ0P6yl4U0F4M3P",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354521_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116689",
+    "dob": "1954-04-02",
+    "title": "Lars Lerin",
+    "date": "2012-07-29",
+    "playlistId": "1hIVJtilTCgiUVrj3iotei",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354514_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116683",
+    "dob": "1950-06-21",
+    "title": "Jan Scherman",
+    "date": "2012-07-28",
+    "playlistId": "6bc5sHUkhJyIHHKTsBO5TI",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354498_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116688",
+    "dob": "1986-02-19",
+    "title": "Marta Vieira da Silva",
+    "date": "2012-07-27",
+    "playlistId": "2BOJH6jmWoXwSJro6qyh6B",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2341893_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116682",
+    "dob": "1957-08-25",
+    "title": "Christer Björkman",
+    "date": "2012-07-26",
+    "playlistId": "7oQNybQFE1xwA3F8nTKWFk",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354591_1200_676.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116684",
+    "dob": "1973-03-19",
+    "title": "Marika Carlsson",
+    "date": "2012-07-25",
+    "playlistId": "2ZzHha1NLuNJr7irl2Hwzt",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354590_1200_676.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116685",
+    "dob": "1957-01-25",
+    "title": "Eskil Erlandsson",
+    "date": "2012-07-24",
+    "playlistId": "7smWl3cWu9fyFJ3NuKeS1U",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354589_1200_676.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116692",
+    "dob": "1978-03-20",
+    "title": "Rakel Chukri",
+    "date": "2012-07-23",
+    "playlistId": "1NdZmvZZ65PzPIykIGEnYt",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2414757_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116694",
+    "dob": "1984-03-06",
+    "title": "Eskil Pedersen",
+    "date": "2012-07-22",
+    "playlistId": "1Ve3FSLXZ7cONzPInYYj4T",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2347539_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116690",
+    "dob": "1977-03-23",
+    "title": "Daniel Espinosa",
+    "date": "2012-07-21",
+    "playlistId": "6rMehIyDiiLBgUN9hqgt9d",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2341855_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116691",
+    "dob": "1986-02-01",
+    "title": "Elsa Billgren",
+    "date": "2012-07-20",
+    "playlistId": "6RN4GE84PYYUA6mAAHPcsD",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354648_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116693",
+    "dob": "1940-05-30",
+    "title": "Jan Lööf",
+    "date": "2012-07-19",
+    "playlistId": "1zrbSOhf9VFkpB3AtHj3uW",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354642_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116697",
+    "dob": "1961-08-16",
+    "title": "Björn Lindeblad",
+    "date": "2012-07-18",
+    "playlistId": "0RZlDODOYQxkMpMYwHfnCE",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354639_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116695",
+    "dob": "1962-10-08",
+    "title": "Katrin Sundberg",
+    "date": "2012-07-17",
+    "playlistId": "3sY3ZVaJLPE3FRc64AFys2",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354637_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116696",
+    "dob": null,
+    "title": "Magdi Abdelhadi",
+    "date": "2012-07-16",
+    "playlistId": "3WybZ1WHDz0Z5mMr4fTwjL",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3258491_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116699",
+    "dob": "1961-04-17",
+    "title": "Thorsten Flinck",
+    "date": "2012-07-15",
+    "playlistId": "3cujBE6ZSQix3DlRGuH13x",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354623_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116698",
+    "dob": "1975-09-30",
+    "title": "Sébastien Boudet",
+    "date": "2012-07-14",
+    "playlistId": "7r9b5qnPJ0V2yUpt9hOvlj",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354584_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116700",
+    "dob": "1974-04-06",
+    "title": "Jenny Jägerfeld",
+    "date": "2012-07-13",
+    "playlistId": "1y4VaoKzZfP7MQBCrUJvOu",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354582_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116702",
+    "dob": "1983-02-21",
+    "title": "Daniel Ek",
+    "date": "2012-07-12",
+    "playlistId": "4yVk0BlGNCNh7ICjov4G7L",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344810_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116701",
+    "dob": "1981-02-27",
+    "title": "Heidi Andersson",
+    "date": "2012-07-11",
+    "playlistId": "5hAXV2x2RQbGIzkQJv2wSt",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354580_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116703",
+    "dob": "1941-06-05",
+    "title": "Gudrun Sjödén",
+    "date": "2012-07-10",
+    "playlistId": "5fJQmjz0pP2UhFyIgGMUAY",
+    "imageurl": "https://static-cdn.sr.se/images/2071/3268506_2048_1152.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116704",
+    "dob": "1977-10-31",
+    "title": "Daniel Sjölin",
+    "date": "2012-07-09",
+    "playlistId": "34fYqjR2uolPZkmobpPKWt",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344557_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116706",
+    "dob": null,
+    "title": "Klara och Johanna Söderberg",
+    "date": "2012-07-08",
+    "playlistId": "6Gfu1tGuu58Unpmr7KGBFX",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344864_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116707",
+    "dob": "1962-11-29",
+    "title": "Petter Stordalen",
+    "date": "2012-07-07",
+    "playlistId": "3DEmcbBuMc7x1TnparqTDX",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354573_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116705",
+    "dob": "1964-03-10",
+    "title": "Neneh Cherry",
+    "date": "2012-07-06",
+    "playlistId": "7mLXsUNFkcswlF1mTHfksE",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344886_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116718",
+    "dob": "1959-12-09",
+    "title": "Lutfi Kolgjini",
+    "date": "2012-07-05",
+    "playlistId": "5uYFRO6146V8nI6F3mHnlD",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344869_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116712",
+    "dob": "1969-12-07",
+    "title": "Ulf Ellervik",
+    "date": "2012-07-04",
+    "playlistId": "3pWdZ2xK1T3RZeh5ZOaTpT",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354562_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116708",
+    "dob": "1968-09-13",
+    "title": "Emma Wiklund",
+    "date": "2012-07-03",
+    "playlistId": "2NKCPfoofGFWkg8ik5RhKF",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354549_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116709",
+    "dob": "1949-06-06",
+    "title": "Amirzai Sangin",
+    "date": "2012-07-02",
+    "playlistId": "5zwKVIsHAnHDC7CAf1dRG2",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344786_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116713",
+    "dob": "1967-02-16",
+    "title": "Klara Zimmergren",
+    "date": "2012-07-01",
+    "playlistId": "40dt3vlOkI0MBSwDPpyQu0",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354540_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116710",
+    "dob": "1963-06-30",
+    "title": "Yngwie Malmsteen",
+    "date": "2012-06-30",
+    "playlistId": "5vi9MRWWcHJ6yPzGCZuLO8",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344748_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116711",
+    "dob": "1974-07-21",
+    "title": "Trita Parsi",
+    "date": "2012-06-29",
+    "playlistId": "3CVOOewbpuwafg323GpAHH",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354529_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116716",
+    "dob": "1932-02-06",
+    "title": "Karin Falck",
+    "date": "2012-06-28",
+    "playlistId": "2pUwOsDSsl1g570B1ZUAHi",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354517_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116714",
+    "dob": null,
+    "title": "John Guidetti",
+    "date": "2012-06-27",
+    "playlistId": "3jlRQZOj04Igza5QAftZnt",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344622_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116715",
+    "dob": null,
+    "title": "Jo Nesbø",
+    "date": "2012-06-26",
+    "playlistId": "0RcQ1fDbvrcw4iG5DkWrMU",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2344855_1200_675.jpg?preset=api-default-square"
+  },
+  {
+    "episodeUrl": "https://sverigesradio.se/avsnitt/116717",
+    "dob": null,
+    "title": "Christina Lampe-Önnerud",
+    "date": "2012-06-25",
+    "playlistId": "0XNgGtsw3cE3PUVaCBpbOC",
+    "imageurl": "https://static-cdn.sr.se/images/2071/2354442_1200_675.jpg?preset=api-default-square"
+  }
+]
